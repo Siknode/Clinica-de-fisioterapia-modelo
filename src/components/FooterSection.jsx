@@ -66,17 +66,17 @@ export default function FooterSection() {
               <li className="flex items-center gap-3">
                 <MessageSquare className="w-4 h-4 text-brand-green shrink-0" />
                 <a
-                  href="https://wa.me/5500999998888"
+                  href="https://wa.me/5521966052646"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="hover:text-brand-green transition-colors"
                 >
-                  WhatsApp Modelo: (00) 99999-8888
+                  WhatsApp Modelo: (21) 96605-2646
                 </a>
               </li>
               <li className="flex items-center gap-3">
                 <Phone className="w-4 h-4 text-brand-purple shrink-0" />
-                <span>Telefone: (00) 99999-8888</span>
+                <span>Telefone: (21) 96605-2646</span>
               </li>
             </ul>
           </div>

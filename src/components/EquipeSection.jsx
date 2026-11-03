@@ -75,7 +75,7 @@ export default function EquipeSection() {
               </div>
 
               <a
-                href={`https://wa.me/5511999998888?text=Olá!%20Gostaria%20de%20agendar%20uma%20consulta%20com%20${encodeURIComponent(membro.nome)}.`}
+                href={`https://wa.me/5521966052646?text=Olá!%20Gostaria%20de%20agendar%20uma%20consulta%20com%20${encodeURIComponent(membro.nome)}.`}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="mt-6 w-full py-2.5 rounded-full bg-brand-blue hover:bg-brand-blue-dark text-white text-xs font-bold transition-colors shadow-sm"

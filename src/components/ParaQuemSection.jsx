@@ -128,7 +128,7 @@ export default function ParaQuemSection() {
             </div>
             <p className="text-xs font-bold text-slate-800">Pronto para viver sem dor?</p>
             <a
-              href={`https://wa.me/5511999998888?text=Olá!%20Gostaria%20de%20agendar%20uma%20avaliação%20para%20${encodeURIComponent(categorias[activeCategory].title)}.`}
+              href={`https://wa.me/5521966052646?text=Olá!%20Gostaria%20de%20agendar%20uma%20avaliação%20para%20${encodeURIComponent(categorias[activeCategory].title)}.`}
               target="_blank"
               rel="noopener noreferrer"
               className="w-full py-3 px-4 bg-brand-purple hover:bg-brand-purple-dark text-white rounded-xl text-xs font-bold flex items-center justify-center gap-2 shadow-md transition-all"

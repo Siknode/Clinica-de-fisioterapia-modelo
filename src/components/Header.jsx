@@ -54,7 +54,7 @@ export default function Header() {
         {/* CTA Actions */}
         <div className="hidden lg:flex items-center gap-3">
           <a
-            href="https://wa.me/5511999998888?text=Olá!%20Gostaria%20de%20agendar%20uma%20avaliação%20na%20Clínica%20Fisiovita."
+            href="https://wa.me/5521966052646?text=Olá!%20Gostaria%20de%20agendar%20uma%20avaliação%20na%20Clínica%20Fisiovita."
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 bg-brand-blue hover:bg-brand-blue-dark text-white px-5 py-2.5 rounded-full text-xs font-semibold shadow-md shadow-brand-blue/15 hover:shadow-lg hover:shadow-brand-blue/30 group transition-all duration-300"
@@ -92,7 +92,7 @@ export default function Header() {
 
           <div className="pt-4 border-t border-slate-100 flex flex-col gap-3">
             <a
-              href="https://wa.me/5511999998888?text=Olá!%20Gostaria%20de%20agendar%20uma%20avaliação%20na%20Clínica%20Fisiovita."
+              href="https://wa.me/5521966052646?text=Olá!%20Gostaria%20de%20agendar%20uma%20avaliação%20na%20Clínica%20Fisiovita."
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center justify-center gap-2 bg-brand-purple text-white py-3 rounded-xl font-bold text-sm shadow-md"

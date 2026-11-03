@@ -90,7 +90,7 @@ export default function BlogSection() {
 
               <div className="p-6 pt-0">
                 <a
-                  href={`https://wa.me/5521968993480?text=Olá!%20Gostaria%20de%20saber%20mais%20sobre%20o%20artigo%20"${encodeURIComponent(art.titulo)}".`}
+                  href={`https://wa.me/5521966052646?text=Olá!%20Gostaria%20de%20saber%20mais%20sobre%20o%20artigo%20"${encodeURIComponent(art.titulo)}".`}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-1.5 text-xs font-bold text-brand-blue hover:text-brand-purple transition-all"

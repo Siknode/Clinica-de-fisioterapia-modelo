@@ -75,7 +75,7 @@ export default function EspecialidadesSection() {
             </p>
           </div>
           <a
-            href="https://wa.me/5511999998888?text=Olá!%20Gostaria%20de%20tirar%20dúvidas%20sobre%20as%20especialidades."
+            href="https://wa.me/5521966052646?text=Olá!%20Gostaria%20de%20tirar%20dúvidas%20sobre%20as%20especialidades."
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 bg-white hover:bg-slate-50 border border-slate-200 text-brand-blue font-bold px-6 py-3 rounded-full text-xs transition-all duration-300 shadow-sm"
@@ -117,7 +117,7 @@ export default function EspecialidadesSection() {
                   </div>
 
                   <a
-                    href={`https://wa.me/5511999998888?text=${encodeURIComponent(item.msg)}`}
+                    href={`https://wa.me/5521966052646?text=${encodeURIComponent(item.msg)}`}
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-flex items-center gap-1.5 text-xs font-bold text-brand-blue hover:text-brand-purple hover:underline transition-all group-hover:translate-x-1 duration-300"

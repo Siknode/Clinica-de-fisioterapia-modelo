@@ -31,7 +31,7 @@ export default function HeroSection() {
 
           <div className="flex flex-col sm:flex-row items-center justify-center lg:justify-start gap-4">
             <a
-              href="https://wa.me/5511999998888?text=Olá!%20Gostaria%20de%20agendar%20uma%20avaliação%20na%20Clínica%20Fisiovita."
+              href="https://wa.me/5521966052646?text=Olá!%20Gostaria%20de%20agendar%20uma%20avaliação%20na%20Clínica%20Fisiovita."
               target="_blank"
               rel="noopener noreferrer"
               className="w-full sm:w-auto flex items-center justify-center gap-2.5 bg-brand-purple hover:bg-brand-purple-dark text-white px-8 py-4 rounded-full text-sm font-bold shadow-lg shadow-brand-purple/20 hover:shadow-xl hover:shadow-brand-purple/30 hover:scale-[1.02] transition-all duration-300 group"
@@ -144,7 +144,7 @@ export default function HeroSection() {
                   <Sparkles className="w-12 h-12 text-brand-purple mb-2 animate-bounce" />
                   <p className="font-space font-semibold text-lg text-white">Agende sua visita técnica e avaliação inicial</p>
                   <a
-                    href="https://wa.me/5511999998888?text=Olá!%20Quero%20agendar%20uma%20visita%20à%20clínica."
+                    href="https://wa.me/5521966052646?text=Olá!%20Quero%20agendar%20uma%20visita%20à%20clínica."
                     target="_blank"
                     rel="noopener noreferrer"
                     className="mt-4 px-6 py-2.5 rounded-full bg-brand-purple hover:bg-brand-purple-dark text-white font-bold text-xs shadow-lg"

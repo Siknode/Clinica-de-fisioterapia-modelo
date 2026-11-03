@@ -226,7 +226,7 @@ export default function IATriagemSection() {
 
               <div className="flex flex-col sm:flex-row gap-3 pt-4">
                 <a
-                  href={`https://wa.me/5511999998888?text=${encodeURIComponent(
+                  href={`https://wa.me/5521966052646?text=${encodeURIComponent(
                     `Olá! Fiz a Triagem Virtual no site da Clínica Fisiovita.\n- Região: ${symptom}\n- Tempo: ${duration}\n- Intensidade: ${intensity}\nGostaria de agendar minha avaliação.`
                   )}`}
                   target="_blank"
