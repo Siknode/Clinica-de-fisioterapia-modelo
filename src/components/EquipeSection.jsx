@@ -15,7 +15,7 @@ export default function EquipeSection() {
       cargo: 'Especialista em Pilates Clínico & RPG',
       registro: 'CREFITO 000.000-F',
       especialidades: ['Pilates Avançado', 'Reeducação Postural (RPG)', 'Fisioterapia Geriátrica'],
-      foto: 'https://images.unsplash.com/photo-1594824813573-246434de83fb?q=80&w=400&auto=format&fit=crop'
+      foto: '/img/beatriz-santos.jpg'
     },
     {
       nome: 'Dra. Camila Rocha',

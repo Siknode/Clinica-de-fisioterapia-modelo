@@ -82,15 +82,15 @@ export default function HeroSection() {
         <div className="lg:col-span-5 relative z-10 w-full flex justify-center">
           <div className="relative w-full max-w-md aspect-[4/5] rounded-[2.5rem] overflow-hidden shadow-2xl border-4 border-white group">
             <img
-              src="https://images.unsplash.com/photo-1599447421416-3414500d18a5?q=80&w=1200&auto=format&fit=crop"
-              alt="Pilates Clínico e Reabilitação"
-              className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
+              src="/img/aluna-pilates.jpg"
+              alt="Aluna com tranças nagô fazendo pilates no reformer"
+              className="w-full h-full object-cover object-top transition-transform duration-700 group-hover:scale-105"
               loading="eager"
             />
             <div className="absolute inset-0 bg-gradient-to-t from-brand-blue/80 via-transparent to-transparent"></div>
 
             {/* Float Card Overlay */}
-            <div className="absolute bottom-6 left-6 right-6 p-5 rounded-2xl glass shadow-xl text-left">
+            <div className="absolute bottom-3 left-3 right-3 p-3 sm:bottom-6 sm:left-6 sm:right-6 sm:p-5 rounded-2xl glass shadow-xl text-left">
               <div className="flex items-start gap-3">
                 <div className="p-2.5 rounded-xl bg-brand-purple/15 text-brand-purple shrink-0">
                   <ShieldCheck className="w-5 h-5" />
