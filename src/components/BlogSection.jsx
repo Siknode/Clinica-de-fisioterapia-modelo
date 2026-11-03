@@ -14,28 +14,28 @@ export default function BlogSection() {
       titulo: 'Pilates Clínico: O aliado número 1 no alívio de hérnia de disco',
       categoria: 'Pilates & Reabilitação',
       tempo: '5 min de leitura',
-      imagem: 'https://images.unsplash.com/photo-1518611012118-696072aa579a?q=80&w=600&auto=format&fit=crop',
+      imagem: 'https://images.unsplash.com/photo-1747240549807-fc3962949818?q=80&w=600&auto=format&fit=crop',
       resumo: 'Entenda os princípios biomecânicos do método Pilates no fortalecimento do core e descompressão discal.'
     },
     {
       titulo: 'Condromalácia patelar: Prevenção, fortalecimento e cuidados',
       categoria: 'Ortopedia',
       tempo: '3 min de leitura',
-      imagem: 'https://images.unsplash.com/photo-1576091160550-2173dba999ef?q=80&w=600&auto=format&fit=crop',
+      imagem: 'https://images.unsplash.com/photo-1649751361457-01d3a696c7e6?q=80&w=600&auto=format&fit=crop',
       resumo: 'Descubra como proteger seus joelhos contra o desgaste da cartilagem com exercícios terapêuticos direcionados.'
     },
     {
       titulo: 'Mobilidade e equilíbrio: Como prevenir quedas na terceira idade',
       categoria: 'Fisioterapia Geriátrica',
       tempo: '4 min de leitura',
-      imagem: 'https://images.unsplash.com/photo-1576765608535-5f04d1e3f289?q=80&w=600&auto=format&fit=crop',
+      imagem: 'https://images.unsplash.com/photo-1773227060944-dc7b00b09ae2?q=80&w=600&auto=format&fit=crop',
       resumo: 'Estratégias práticas e treinos proprioceptivos para manter os idosos seguros, firmes e independentes.'
     },
     {
       titulo: 'Alimentação anti-inflamatória no processo de reabilitação muscular',
       categoria: 'Nutrição Integrativa',
       tempo: '6 min de leitura',
-      imagem: 'https://images.unsplash.com/photo-1490645935967-10de6ba17061?q=80&w=600&auto=format&fit=crop',
+      imagem: 'https://images.unsplash.com/photo-1512621776951-a57141f2eefd?q=80&w=600&auto=format&fit=crop',
       resumo: 'A sinergia entre boa nutrição e fisioterapia para acelerar a regeneração tecidual e diminuir dores.'
     }
   ];

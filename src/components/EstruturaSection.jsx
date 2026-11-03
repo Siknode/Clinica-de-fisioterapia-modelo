@@ -8,7 +8,7 @@ export default function EstruturaSection() {
     {
       title: 'Estúdio de Pilates Clínico',
       desc: 'Equipamentos completos de Pilates e acessibilidade total para treinos individuais ou em duplas.',
-      src: 'https://images.unsplash.com/photo-1518611012118-696072aa579a?q=80&w=1000&auto=format&fit=crop'
+      src: 'https://images.unsplash.com/photo-1717500252709-05a73fc4f1da?q=80&w=1000&auto=format&fit=crop'
     },
     {
       title: 'Consultórios Privativos',
@@ -18,7 +18,7 @@ export default function EstruturaSection() {
     {
       title: 'Área de Reabilitação Física',
       desc: 'Espaço amplo com equipamentos para exercícios funcionais, musculação terapêutica e maca de tração.',
-      src: 'https://images.unsplash.com/photo-1576091160550-2173dba999ef?q=80&w=1000&auto=format&fit=crop'
+      src: 'https://images.unsplash.com/photo-1758448756350-3d0eec02ba37?q=80&w=1000&auto=format&fit=crop'
     }
   ];
 
