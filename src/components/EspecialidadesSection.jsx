@@ -7,7 +7,7 @@ export default function EspecialidadesSection() {
       title: 'Fisioterapia Clínica',
       description: 'Tratamentos ortopédicos, neurológicos e desportivos fundamentados em evidência científica e alta tecnologia para aliviar dores e recuperar movimentos.',
       icon: Activity,
-      image: 'https://images.unsplash.com/photo-1645005513713-9e2b92a687d3?q=80&w=600&auto=format&fit=crop',
+      image: 'https://images.unsplash.com/photo-1576091160550-2173dba999ef?q=80&w=600&auto=format&fit=crop',
       ctaText: 'Falar com Fisioterapeuta',
       msg: 'Olá! Gostaria de mais informações sobre Fisioterapia Clínica.'
     },

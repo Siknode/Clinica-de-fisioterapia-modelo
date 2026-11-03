@@ -136,7 +136,7 @@ export default function HeroSection() {
               </p>
               <div className="aspect-video bg-slate-800 rounded-2xl flex items-center justify-center relative overflow-hidden">
                 <img
-                  src="https://images.unsplash.com/photo-1645005513713-9e2b92a687d3?q=80&w=1000&auto=format&fit=crop"
+                  src="https://images.unsplash.com/photo-1576091160550-2173dba999ef?q=80&w=1000&auto=format&fit=crop"
                   alt="Tour da Clínica Fisiovita"
                   className="w-full h-full object-cover opacity-60"
                 />

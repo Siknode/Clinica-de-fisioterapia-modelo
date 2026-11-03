@@ -13,12 +13,12 @@ export default function EstruturaSection() {
     {
       title: 'Consultórios Privativos',
       desc: 'Ambientes climatizados e privativos para avaliações minuciosas e sessões individuais de fisioterapia.',
-      src: 'https://images.unsplash.com/photo-1649751361457-01d3a696c7e6?q=80&w=1000&auto=format&fit=crop'
+      src: 'https://images.unsplash.com/photo-1706353399656-210cca727a33?q=80&w=1000&auto=format&fit=crop'
     },
     {
       title: 'Área de Reabilitação Física',
       desc: 'Espaço amplo com equipamentos para exercícios funcionais, musculação terapêutica e maca de tração.',
-      src: 'https://images.unsplash.com/photo-1645005513713-9e2b92a687d3?q=80&w=1000&auto=format&fit=crop'
+      src: 'https://images.unsplash.com/photo-1576091160550-2173dba999ef?q=80&w=1000&auto=format&fit=crop'
     }
   ];
 

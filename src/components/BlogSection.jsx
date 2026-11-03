@@ -21,7 +21,7 @@ export default function BlogSection() {
       titulo: 'Condromalácia patelar: Prevenção, fortalecimento e cuidados',
       categoria: 'Ortopedia',
       tempo: '3 min de leitura',
-      imagem: 'https://images.unsplash.com/photo-1645005513713-9e2b92a687d3?q=80&w=600&auto=format&fit=crop',
+      imagem: 'https://images.unsplash.com/photo-1576091160550-2173dba999ef?q=80&w=600&auto=format&fit=crop',
       resumo: 'Descubra como proteger seus joelhos contra o desgaste da cartilagem com exercícios terapêuticos direcionados.'
     },
     {
